@@ -1,0 +1,27 @@
+.reveal .standout {
+  font-weight: bolder;
+  font-size: 1.2em;
+  color: white;
+}
+
+.reveal pre {
+  text-shadow: none;
+  box-shadow: none;
+}
+
+.reveal pre code {
+  background-color: black;
+}
+
+body {
+  background-color: #002b36;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+  color: white;
+  letter-spacing: .08em;
+}
+
+.reveal .slides {
+  color: #2898e8;
+}
